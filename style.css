@@ -1,0 +1,20 @@
+body {
+    background-color: yellow;
+}
+.conteiner {
+
+}
+.zagolovok {
+    background: darkmagenta;
+    position: sticky;
+    display: absolute;
+    text-align: center;
+    box-shadow: 0px 0px 15px 0px;
+    border-radius: 25px;
+}
+.table {
+    position: absolute;
+    text-align: center;
+    color: dark;
+    
+}
